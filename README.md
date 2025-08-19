@@ -5,7 +5,7 @@
 ---
 
 ## 🧑‍💻 Sobre mí
-Soy <b>Ingeniero de Sistemas</b> con más de <b>4 años de experiencia</b> en desarrollo backend y transformación digital. <br/>
+Soy <b>Ingeniero de Sistemas</b> con más de <b>4 años de experiencia</b> en desarrollo fullstack y transformación digital. <br/>
 Me apasiona la <b>automatización, la innovación tecnológica</b> y construir soluciones <b>escalables y de alto rendimiento</b>.  
 <i>"El código debe ser tan elegante como funcional."</i>
 
